@@ -1,16 +1,11 @@
-# we2do
+# We2Do App
 
-A new Flutter project.
+Hackathon competition organized by Bilkent University Young Entrepreneurs Society with the support of MobileAction.
+- [Project Presentation](https://www.canva.com/design/DAGHjdCY7yU/blQfOEUX019ITbDQOcCRQg/edit?utm_content=DAGHjdCY7yU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Getting Started
+# Images of the Application
 
-This project is a starting point for a Flutter application.
+https://github.com/bilginfatih/we2do/assets/55558394/c21e0be7-3a11-4982-9dbd-33f26e16aadd 
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/bilginfatih/we2do/assets/55558394/5aebac66-8c09-4d9b-8c12-61a4ac4febaa
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
